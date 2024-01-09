@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Tic Tac Toe Game
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is the exam of the "Vue.js" course of  Start2Impact University
 
-## Recommended IDE Setup
+## Technologies
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+-HTML  
+-CSS  
+-JavaScript  
+-Vue.js 
+
+## Visit the [website](https://graziabaiamonte.github.io/TicTacToe/)
